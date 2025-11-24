@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I’m Vladimir. I build iOS (Swift / SwiftUI / TCA) and Android (Kotlin / Jetpack Compose) apps with a focus on clean architecture, performance, and a smooth user experience.
+
+### Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VladimirAmiorkov&show_icons=true&locale=en&layout=compact&theme=radical" alt="VladimirAmiorkov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VladimirAmiorkov&show_icons=true&locale=en&theme=radical" alt="VladimirAmiorkov" /></p>
